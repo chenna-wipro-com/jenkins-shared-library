@@ -3,7 +3,7 @@ jsl = library(
   retriever: modernSCM(
     [
       $class: 'GitSCMSource',
-      remote: 'https://github.com/hoto/jenkins-shared-library.git'
+      remote: 'https://github.com/chenna-wipro-com/jenkins-shared-library.git'
     ]
   )
 )
