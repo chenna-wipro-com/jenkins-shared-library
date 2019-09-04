@@ -8,6 +8,7 @@ jsl = library(
   )
 )
 
+
 build = jsl.com.mycompany.jenkins.Build.new(this)
 git = jsl.com.mycompany.jenkins.Git.new(this)
 
